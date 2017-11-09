@@ -9,6 +9,7 @@ brew install \
     curl \
     ethereum \
     ghi \
+    googler \
     mono \
     mplayer \
     nvm \
