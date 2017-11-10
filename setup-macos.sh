@@ -31,6 +31,7 @@ brew cask install \
     google-chrome \
     itsycal \
     mas \
+    microsoft-office \
     mist \
     postman \
     sketch \
