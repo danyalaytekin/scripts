@@ -10,6 +10,7 @@ brew install \
     ethereum \
     ghi \
     googler \
+    mas \
     mono \
     mplayer \
     nvm \
@@ -30,7 +31,6 @@ brew cask install \
     gitter \
     google-chrome \
     itsycal \
-    mas \
     microsoft-office \
     mist \
     postman \
