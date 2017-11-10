@@ -69,3 +69,6 @@ mas install \
     803453959 `#Slack` \
     1225570693 `#UlyssesMac` \
     1026566364 `#GoodNotes`
+
+# Setup working directories
+mkdir ~/Projects
