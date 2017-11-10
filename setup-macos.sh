@@ -72,3 +72,8 @@ mas install \
 
 # Setup working directories
 mkdir ~/Projects
+
+# Sync Bear
+open -g -a Bear
+sleep 60
+osascript -e 'tell application "Bear" to quit'
