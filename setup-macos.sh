@@ -73,6 +73,13 @@ mas install \
 # Setup working directories
 mkdir ~/Projects
 
+# Ruby - install
+ruby-install 2.4
+chruby 2.4
+
+# Ruby - gems
+gem install quoth
+
 # Sync Bear
 open -g -a Bear
 sleep 60
