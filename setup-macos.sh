@@ -77,7 +77,9 @@ mas install \
 # Ruby
 ruby-install 2.4
 chruby 2.4
-gem install quoth
+gem install \
+    bundler \
+    quoth
 
 # Node
 nvm install 8
