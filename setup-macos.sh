@@ -84,7 +84,9 @@ gem install \
 # Node
 nvm install 8
 nvm use 8
-npm install -g ddg-terminal
+npm install -g \
+    ddg-terminal \
+    yarn
 
 # Chrome - disable navigation gestures
 defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool FALSE
