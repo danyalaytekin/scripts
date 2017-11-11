@@ -1,3 +1,9 @@
+# Create working directories
+mkdir ~/Projects
+
+# Git
+git config --global core.editor "nano"
+
 # Homebrew - setup
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew update && brew doctor
@@ -44,9 +50,6 @@ brew cask install \
     visual-studio-code \
     vmware-fusion
 
-# Chrome - disable navigation gestures
-defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool FALSE
-
 # Mac App Store - run installers
 mas install \
     620249105 `#LaunchD` \
@@ -70,9 +73,6 @@ mas install \
     1225570693 `#UlyssesMac` \
     1026566364 `#GoodNotes`
 
-# Setup working directories
-mkdir ~/Projects
-
 # Ruby - install
 ruby-install 2.4
 chruby 2.4
@@ -80,7 +80,10 @@ chruby 2.4
 # Ruby - gems
 gem install quoth
 
-# Sync Bear
+# Chrome - disable navigation gestures
+defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool FALSE
+
+# Bear - sync
 open -g -a Bear
 sleep 60
 osascript -e 'tell application "Bear" to quit'
