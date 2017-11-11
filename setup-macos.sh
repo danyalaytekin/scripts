@@ -74,12 +74,15 @@ mas install \
     1225570693 `#UlyssesMac` \
     1026566364 `#GoodNotes`
 
-# Ruby - install
+# Ruby
 ruby-install 2.4
 chruby 2.4
-
-# Ruby - gems
 gem install quoth
+
+# Node
+nvm install 8
+nvm use 8
+npm install -g ddg-terminal
 
 # Chrome - disable navigation gestures
 defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool FALSE
