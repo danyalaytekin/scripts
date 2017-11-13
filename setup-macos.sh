@@ -41,6 +41,7 @@ brew cask install \
     microsoft-office \
     mist \
     postman \
+    qlmarkdown \
     qlstephen \
     sketch \
     sourcetree \
