@@ -81,6 +81,7 @@ ruby-install 2.4
 chruby 2.4
 gem install \
     bundler \
+    travis \
     quoth
 
 # Node
