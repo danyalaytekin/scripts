@@ -23,7 +23,8 @@ brew install \
     nvm \
     ruby-install \
     tree \
-    wget
+    wget \
+    wiki
 
 # Homebrew casks - run installers
 brew cask install \
@@ -88,7 +89,9 @@ gem install \
 nvm install 8
 nvm use 8
 npm install -g \
+    create-react-app \
     ddg-terminal \
+    npm-check-updates \
     yarn
 
 # Chrome - disable navigation gestures
