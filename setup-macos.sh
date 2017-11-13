@@ -41,6 +41,7 @@ brew cask install \
     microsoft-office \
     mist \
     postman \
+    qlstephen \
     sketch \
     sourcetree \
     spotify \
