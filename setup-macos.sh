@@ -75,7 +75,9 @@ mas install \
     1176895641 `#Spark` \
     803453959 `#Slack` \
     1225570693 `#UlyssesMac` \
-    1026566364 `#GoodNotes`
+    1026566364 `#GoodNotes` \
+    1187772509 `#stts` \
+    603117688 `#CCMenu`
 
 # Ruby
 ruby-install 2.4
