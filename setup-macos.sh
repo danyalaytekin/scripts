@@ -19,6 +19,7 @@ brew install \
     mas \
     mono \
     mplayer \
+    namebench \
     peco \
     nvm \
     ruby-install \
