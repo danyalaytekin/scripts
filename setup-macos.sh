@@ -23,7 +23,8 @@ brew install \
     nvm \
     ruby-install \
     tree \
-    wget
+    wget \
+    wiki
 
 # Homebrew casks - run installers
 brew cask install \
@@ -74,20 +75,25 @@ mas install \
     1176895641 `#Spark` \
     803453959 `#Slack` \
     1225570693 `#UlyssesMac` \
-    1026566364 `#GoodNotes`
+    1026566364 `#GoodNotes` \
+    1187772509 `#stts` \
+    603117688 `#CCMenu`
 
 # Ruby
 ruby-install 2.4
 chruby 2.4
 gem install \
     bundler \
+    travis \
     quoth
 
 # Node
 nvm install 8
 nvm use 8
 npm install -g \
+    create-react-app \
     ddg-terminal \
+    npm-check-updates \
     yarn
 
 # Chrome - disable navigation gestures
