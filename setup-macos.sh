@@ -58,29 +58,29 @@ brew cask install \
 
 # Mac App Store - run installers
 mas install \
-    620249105 `#LaunchD` \
-    409183694 `#Keynote` \
-    441258766 `#Magnet` \
-    634210019 `#Plisterine` \
-    434808346 `#SimpleMind` \
-    682658836 `#GarageBand` \
-    407963104 `#Pixelmator` \
     443987910 `#1Password` \
-    880001334 `#Reeder` \
-    497799835 `#Xcode` \
+    1091189122 `#Bear` \
+    603117688 `#CCMenu` \
+    1055511498 `#DayOne` \
+    587769990 `#EyeFriendly` \
+    682658836 `#GarageBand` \
+    1026566364 `#GoodNotes` \
+    408981434 `#iMovie` \
+    409183694 `#Keynote` \
+    620249105 `#LaunchD` \
+    441258766 `#Magnet` \
     409203825 `#Numbers` \
     409201541 `#Pages` \
-    1147396723 `#WhatsApp` \
-    1091189122 `#Bear` \
-    408981434 `#iMovie` \
-    587769990 `#EyeFriendly` \
-    1176895641 `#Spark` \
+    407963104 `#Pixelmator` \
+    634210019 `#Plisterine` \
+    880001334 `#Reeder` \
+    434808346 `#SimpleMind` \
     803453959 `#Slack` \
-    1225570693 `#UlyssesMac` \
-    1026566364 `#GoodNotes` \
+    1176895641 `#Spark` \
     1187772509 `#stts` \
-    603117688 `#CCMenu` \
-    1055511498 `#DayOne`
+    1225570693 `#UlyssesMac` \
+    1147396723 `#WhatsApp` \
+    497799835 `#Xcode`
 
 # Ruby
 ruby-install 2.4
