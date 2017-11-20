@@ -39,6 +39,7 @@ brew cask install \
     firefox \
     gitter \
     google-chrome \
+    keyboard-maestro \
     itsycal \
     microsoft-office \
     mist \
