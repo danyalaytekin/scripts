@@ -78,7 +78,8 @@ mas install \
     1225570693 `#UlyssesMac` \
     1026566364 `#GoodNotes` \
     1187772509 `#stts` \
-    603117688 `#CCMenu`
+    603117688 `#CCMenu` \
+    1055511498 `#DayOne`
 
 # Ruby
 ruby-install 2.4
