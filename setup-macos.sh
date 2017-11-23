@@ -27,6 +27,9 @@ brew install \
     wget \
     wiki
 
+# Homebrew casks - enable older versions
+brew tap caskroom/versions
+
 # Homebrew casks - run installers
 brew cask install \
     balsamiq-mockups \
