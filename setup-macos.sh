@@ -37,6 +37,7 @@ brew cask install \
     daisydisk \
     dropbox \
     firefox \
+    gitify \
     gitter \
     google-chrome \
     keyboard-maestro \
