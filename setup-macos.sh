@@ -102,6 +102,7 @@ npm install -g \
     ddg-terminal \
     git-open \
     npm-check-updates \
+    npm-run-all \
     pm2 \
     yarn
 
