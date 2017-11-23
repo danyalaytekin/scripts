@@ -101,6 +101,7 @@ npm install -g \
     create-react-app \
     ddg-terminal \
     npm-check-updates \
+    pm2 \
     yarn
 
 # Chrome - disable navigation gestures
