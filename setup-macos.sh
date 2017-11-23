@@ -58,7 +58,7 @@ brew cask install \
     tidal \
     transmission \
     visual-studio-code \
-    vmware-fusion
+    vmware-fusion8
 
 # Mac App Store - run installers
 mas install \
