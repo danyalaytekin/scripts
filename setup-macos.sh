@@ -100,6 +100,7 @@ nvm use 8
 npm install -g \
     create-react-app \
     ddg-terminal \
+    git-open \
     npm-check-updates \
     pm2 \
     yarn
