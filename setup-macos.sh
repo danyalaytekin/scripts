@@ -40,6 +40,7 @@ brew cask install \
     daisydisk \
     dropbox \
     firefox \
+    focus \
     gitify \
     gitter \
     google-chrome \
