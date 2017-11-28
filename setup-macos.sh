@@ -11,6 +11,7 @@ brew update && brew doctor
 # Homebrew - run installers
 brew install \
     autojump \
+    az \
     chruby \
     curl \
     ethereum \
