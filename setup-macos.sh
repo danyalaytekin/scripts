@@ -42,6 +42,7 @@ brew cask install \
     dropbox \
     firefox \
     focus \
+    gimp \
     gitify \
     gitter \
     google-chrome \
