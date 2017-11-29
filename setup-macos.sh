@@ -59,6 +59,7 @@ brew cask install \
     steam \
     textexpander \
     tidal \
+    torbrowser \
     transmission \
     visual-studio-code \
     vmware-fusion8
