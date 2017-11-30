@@ -108,6 +108,7 @@ npm install -g \
     npm-check-updates \
     npm-run-all \
     pm2 \
+    third-party-decode \
     yarn
 
 # Chrome - disable navigation gestures
