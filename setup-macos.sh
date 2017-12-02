@@ -39,6 +39,7 @@ brew cask install \
     charles \
     coconutbattery \
     daisydisk \
+    doxie \
     dropbox \
     firefox \
     focus \
