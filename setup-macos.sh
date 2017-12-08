@@ -17,6 +17,7 @@ brew install \
     ethereum \
     ghi \
     googler \
+    lynx \
     mas \
     mono \
     mplayer \
