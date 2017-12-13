@@ -71,6 +71,7 @@ mas install \
     443987910 `#1Password` \
     1091189122 `#Bear` \
     603117688 `#CCMenu` \
+    1141688067 `#CoinTick` \
     1055511498 `#DayOne` \
     587769990 `#EyeFriendly` \
     682658836 `#GarageBand` \
