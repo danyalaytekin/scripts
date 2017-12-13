@@ -64,7 +64,7 @@ brew cask install \
     torbrowser \
     transmission \
     visual-studio-code \
-    vmware-fusion8
+    vmware-fusion
 
 # Mac App Store - run installers
 mas install \
