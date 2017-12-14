@@ -63,6 +63,7 @@ brew cask install \
     tidal \
     torbrowser \
     transmission \
+    ubar \
     visual-studio-code \
     vmware-fusion
 
