@@ -81,6 +81,7 @@ mas install \
     409183694 `#Keynote` \
     620249105 `#LaunchD` \
     441258766 `#Magnet` \
+    440472232 `#NewsBar` \
     409203825 `#Numbers` \
     409201541 `#Pages` \
     407963104 `#Pixelmator` \
