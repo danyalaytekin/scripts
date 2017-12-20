@@ -3,6 +3,8 @@ mkdir ~/Projects
 
 # Setup Finder
 chflags nohidden ~/Library
+defaults write com.apple.finder ShowPathbar -bool true
+defaults write com.apple.finder ShowStatusBar -bool true
 
 # Git
 git config --global core.editor "nano"
