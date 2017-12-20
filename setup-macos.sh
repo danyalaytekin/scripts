@@ -1,6 +1,9 @@
 # Create working directories
 mkdir ~/Projects
 
+# Setup Finder
+chflags nohidden ~/Library
+
 # Git
 git config --global core.editor "nano"
 
