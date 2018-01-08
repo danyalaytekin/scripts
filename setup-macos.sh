@@ -37,7 +37,7 @@ brew install \
 # Homebrew casks - enable older versions
 brew tap caskroom/versions
 
-# Homebrew casks - run installers
+# Homebrew casks - install software
 brew cask install \
     balsamiq-mockups \
     beyond-compare \
@@ -72,6 +72,11 @@ brew cask install \
     ubar \
     visual-studio-code \
     vmware-fusion
+
+# Homebrew casks - install fonts
+brew tap caskroom/fonts
+brew cask install \
+    font-inconsolata
 
 # Mac App Store - run installers
 mas install \
