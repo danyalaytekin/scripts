@@ -45,6 +45,7 @@ brew cask install \
     charles \
     coconutbattery \
     daisydisk \
+    discord \
     doxie \
     dropbox \
     firefox \
