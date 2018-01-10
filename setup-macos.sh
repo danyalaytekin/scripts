@@ -66,7 +66,6 @@ brew cask install \
     spotify \
     steam \
     textexpander \
-    tidal \
     torbrowser \
     transmission \
     ubar \
