@@ -45,6 +45,7 @@ brew cask install \
     balsamiq-mockups \
     beyond-compare \
     bitbar \
+    blender \
     charles \
     coconutbattery \
     daisydisk \
