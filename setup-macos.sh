@@ -65,6 +65,7 @@ brew cask install \
     qlmarkdown \
     qlstephen \
     sketch \
+    sketchpacks \
     sourcetree \
     spotify \
     steam \
