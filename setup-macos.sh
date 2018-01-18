@@ -70,7 +70,6 @@ brew cask install \
     sourcetree \
     spotify \
     steam \
-    textexpander \
     torbrowser \
     transmission \
     ubar \
