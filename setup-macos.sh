@@ -107,6 +107,7 @@ mas install \
     1187772509 `#stts` \
     1225570693 `#UlyssesMac` \
     1147396723 `#WhatsApp` \
+    410628904 `#Wunderlist` \
     497799835 `#Xcode`
 
 # Ruby
