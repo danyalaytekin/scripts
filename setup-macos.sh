@@ -74,6 +74,7 @@ brew cask install \
     transmission \
     ubar \
     visual-studio-code \
+    vlc \
     vmware-fusion
 
 # Homebrew casks - install fonts
