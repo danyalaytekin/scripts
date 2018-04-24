@@ -23,6 +23,7 @@ brew install \
     chruby \
     curl \
     ethereum \
+    exiftool \
     ghi \
     googler \
     lynx \
@@ -33,6 +34,7 @@ brew install \
     peco \
     nvm \
     ruby-install \
+    translate-shell \
     tree \
     wget \
     wiki
