@@ -78,7 +78,8 @@ brew cask install \
     ubar \
     visual-studio-code \
     vlc \
-    vmware-fusion
+    vmware-fusion \
+    zeplin
 
 # Homebrew casks - install fonts
 brew tap caskroom/fonts
