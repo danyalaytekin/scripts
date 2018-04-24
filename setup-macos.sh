@@ -132,6 +132,7 @@ npm install -g \
     npm-check-updates \
     npm-run-all \
     pm2 \
+    serve \
     third-party-decode \
     yarn
 
