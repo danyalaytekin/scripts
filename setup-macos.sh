@@ -77,6 +77,7 @@ brew cask install \
     transmission \
     ubar \
     visual-studio-code \
+    vlc \
     vmware-fusion
 
 # Homebrew casks - install fonts
@@ -110,6 +111,7 @@ mas install \
     1187772509 `#stts` \
     1225570693 `#UlyssesMac` \
     1147396723 `#WhatsApp` \
+    410628904 `#Wunderlist` \
     497799835 `#Xcode`
 
 # Ruby
