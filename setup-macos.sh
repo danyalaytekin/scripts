@@ -63,6 +63,7 @@ brew cask install \
     google-chrome \
     keyboard-maestro \
     itsycal \
+    jetbrains-toolbox \
     microsoft-office \
     mist \
     postman \
