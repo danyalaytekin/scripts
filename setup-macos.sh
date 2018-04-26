@@ -128,6 +128,8 @@ gem install \
 # Node
 nvm install 8
 nvm use 8
+
+# Node - packages
 npm install -g \
     create-react-app \
     ddg-terminal \
@@ -138,6 +140,9 @@ npm install -g \
     serve \
     third-party-decode \
     yarn
+
+# Rust
+curl https://sh.rustup.rs -sSf | sh
 
 # Chrome - disable navigation gestures
 defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool FALSE
