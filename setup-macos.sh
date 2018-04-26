@@ -74,6 +74,7 @@ brew cask install \
     sourcetree \
     spotify \
     steam \
+    tidal \
     torbrowser \
     transmission \
     ubar \
