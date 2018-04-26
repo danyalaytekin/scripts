@@ -144,6 +144,10 @@ npm install -g \
 # Rust
 curl https://sh.rustup.rs -sSf | sh
 
+# Rust - packages
+cargo install \
+    urlencode
+
 # Chrome - disable navigation gestures
 defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool FALSE
 
