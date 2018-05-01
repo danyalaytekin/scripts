@@ -71,6 +71,7 @@ brew cask install \
     qlstephen \
     sketch \
     sketchpacks \
+    skype \
     sourcetree \
     spotify \
     steam \
