@@ -1,4 +1,5 @@
 # aliases
+alias aj="autojump"
 alias bu="brew update && brew upgrade && brew prune && brew doctor"
 alias bear="open /Applications/Bear.app"
 alias bye="exit"

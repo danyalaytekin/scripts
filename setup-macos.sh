@@ -66,6 +66,7 @@ brew cask install \
     jetbrains-toolbox \
     microsoft-office \
     mist \
+    notion \
     postman \
     qlmarkdown \
     qlstephen \
