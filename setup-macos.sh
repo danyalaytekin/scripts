@@ -33,6 +33,7 @@ brew install \
     namebench \
     peco \
     nvm \
+    redis \
     ruby-install \
     translate-shell \
     tree \
