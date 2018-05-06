@@ -26,6 +26,7 @@ brew install \
     exiftool \
     ghi \
     googler \
+    golang \
     lynx \
     mas \
     mono \
