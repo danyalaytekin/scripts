@@ -52,6 +52,7 @@ brew cask install \
     bitbar \
     blender \
     charles \
+    cheatsheet \
     coconutbattery \
     daisydisk \
     discord \
