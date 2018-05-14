@@ -123,8 +123,8 @@ mas install \
     497799835 `#Xcode`
 
 # Ruby
-ruby-install 2.4
-chruby 2.4
+ruby-install ruby 2.5
+chruby 2.5
 gem install \
     bundler \
     travis \
