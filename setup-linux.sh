@@ -30,3 +30,20 @@ gem install \
     bundler \
     travis \
     quoth
+
+# Node
+nvm install 8
+nvm use 8
+
+# Node - packages
+npm install -g \
+    create-react-app \
+    ddg-terminal \
+    git-open \
+    npm-check-updates \
+    npm-run-all \
+    pm2 \
+    redis-commander \
+    serve \
+    third-party-decode \
+    yarn
