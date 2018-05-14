@@ -142,6 +142,7 @@ npm install -g \
     npm-check-updates \
     npm-run-all \
     pm2 \
+    redis-commander \
     serve \
     third-party-decode \
     yarn
