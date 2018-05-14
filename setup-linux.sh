@@ -23,3 +23,10 @@ brew install \
     peco \
     ruby-install
 
+# Ruby
+ruby-install ruby 2.5
+chruby 2.5
+gem install \
+    bundler \
+    travis \
+    quoth
