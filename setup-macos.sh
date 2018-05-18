@@ -139,8 +139,10 @@ npm install -g \
     create-react-app \
     ddg-terminal \
     git-open \
+    newman \
     npm-check-updates \
     npm-run-all \
+    nyc \
     pm2 \
     redis-commander \
     serve \
