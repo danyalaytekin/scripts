@@ -64,6 +64,7 @@ brew cask install \
     gitify \
     gitter \
     google-chrome \
+    hyper \
     keyboard-maestro \
     itsycal \
     jetbrains-toolbox \
