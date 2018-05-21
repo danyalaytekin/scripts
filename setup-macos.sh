@@ -65,6 +65,7 @@ brew cask install \
     gitter \
     google-chrome \
     hyper \
+    kdiff3 \
     keyboard-maestro \
     itsycal \
     jetbrains-toolbox \
