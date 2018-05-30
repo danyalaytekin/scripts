@@ -65,6 +65,7 @@ brew cask install \
     gitter \
     google-chrome \
     hyper \
+    imageoptim \
     kdiff3 \
     keybase \
     keyboard-maestro \
