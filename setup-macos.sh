@@ -21,12 +21,14 @@ brew install \
     autojump \
     az \
     chruby \
+    cloc \
     curl \
     ethereum \
     exiftool \
     ghi \
     googler \
     golang \
+    libxml2 \
     lynx \
     mas \
     mono \
