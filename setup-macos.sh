@@ -20,6 +20,7 @@ brew update && brew doctor
 brew install \
     autojump \
     az \
+    cbmbasic \
     chruby \
     cloc \
     curl \
@@ -34,10 +35,12 @@ brew install \
     mono \
     mplayer \
     namebench \
+    p7zip \
     peco \
     nvm \
     redis \
     ruby-install \
+    nsnake \
     translate-shell \
     tree \
     wget \
