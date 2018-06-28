@@ -147,6 +147,7 @@ nvm use 8
 npm install -g \
     create-react-app \
     ddg-terminal \
+    express-generator \
     git-open \
     newman \
     npm-check-updates \
