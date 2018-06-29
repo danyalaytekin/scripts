@@ -34,6 +34,7 @@ brew install \
     mas \
     mono \
     mplayer \
+    mysql \
     namebench \
     p7zip \
     peco \
