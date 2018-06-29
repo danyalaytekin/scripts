@@ -153,6 +153,8 @@ npm install -g \
     npm-check-updates \
     npm-run-all \
     nyc \
+    pa11y \
+    pa11y-ci \
     pm2 \
     redis-commander \
     serve \
