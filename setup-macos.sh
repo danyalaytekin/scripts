@@ -79,6 +79,7 @@ brew cask install \
     jetbrains-toolbox \
     microsoft-office \
     mist \
+    mysqlworkbench \
     notion \
     postman \
     qlmarkdown \
