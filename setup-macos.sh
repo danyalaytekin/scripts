@@ -31,10 +31,10 @@ brew install \
     golang \
     libxml2 \
     lynx \
+    mariadb \
     mas \
     mono \
     mplayer \
-    mysql \
     namebench \
     p7zip \
     peco \
