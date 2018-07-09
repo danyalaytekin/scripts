@@ -110,6 +110,7 @@ mas install \
     1091189122 `#Bear` \
     603117688 `#CCMenu` \
     1141688067 `#CoinTick` \
+    641027709 `#ColorPicker` \
     1055511498 `#DayOne` \
     587769990 `#EyeFriendly` \
     682658836 `#GarageBand` \
@@ -120,6 +121,7 @@ mas install \
     441258766 `#Magnet` \
     440472232 `#NewsBar` \
     409203825 `#Numbers` \
+    823766827 `#OneDrive` \
     409201541 `#Pages` \
     407963104 `#Pixelmator` \
     634210019 `#Plisterine` \
