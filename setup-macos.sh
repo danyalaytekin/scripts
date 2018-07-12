@@ -64,6 +64,7 @@ brew cask install \
     discord \
     doxie \
     dropbox \
+    dupeguru \
     firefox \
     focus \
     gimp \
