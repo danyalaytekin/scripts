@@ -38,11 +38,16 @@ nvm use 8
 npm install -g \
     create-react-app \
     ddg-terminal \
+    express-generator \
     git-open \
+    newman \
     npm-check-updates \
     npm-run-all \
+    nyc \
+    pa11y-ci \
     pm2 \
     redis-commander \
     serve \
+    surge \
     third-party-decode \
     yarn
