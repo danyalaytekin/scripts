@@ -48,6 +48,7 @@ npm install -g \
     pm2 \
     redis-commander \
     serve \
+    serverless \
     surge \
     third-party-decode \
     yarn
