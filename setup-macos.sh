@@ -19,6 +19,7 @@ brew update && brew doctor
 # Homebrew - run installers
 brew install \
     autojump \
+    awscli \
     az \
     cbmbasic \
     chruby \
