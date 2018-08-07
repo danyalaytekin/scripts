@@ -164,6 +164,7 @@ npm install -g \
     pm2 \
     redis-commander \
     serve \
+    serverless \
     third-party-decode \
     yarn
 
