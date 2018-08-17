@@ -43,6 +43,7 @@ brew install \
     redis \
     ruby-install \
     nsnake \
+    terraform \
     translate-shell \
     tree \
     wget \
