@@ -54,6 +54,7 @@ brew tap caskroom/versions
 
 # Homebrew casks - install software
 brew cask install \
+    atext \
     authy \
     balsamiq-mockups \
     beyond-compare \
