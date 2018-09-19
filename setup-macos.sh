@@ -64,6 +64,7 @@ brew cask install \
     cheatsheet \
     coconutbattery \
     daisydisk \
+    deezer \
     discord \
     doxie \
     dropbox \
