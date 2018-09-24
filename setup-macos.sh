@@ -124,7 +124,7 @@ mas install \
     409183694 `#Keynote` \
     620249105 `#LaunchD` \
     441258766 `#Magnet` \
-    715768417 `#MicrosoftRemoteDesktop` \
+    1295203466 `#MicrosoftRemoteDesktop` \
     440472232 `#NewsBar` \
     409203825 `#Numbers` \
     823766827 `#OneDrive` \
