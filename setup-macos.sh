@@ -39,6 +39,7 @@ brew install \
     namebench \
     p7zip \
     peco \
+    pyenv \
     nvm \
     redis \
     ruby-install \
@@ -73,6 +74,7 @@ brew cask install \
     focus \
     gimp \
     gitify \
+    gitkraken \
     gitter \
     google-chrome \
     hyper \
