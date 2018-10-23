@@ -37,20 +37,16 @@ alias bye="exit"
 alias c="clear"
 alias clear="clear && quoth"
 alias db="dotnet build"
-alias decode3p="node ~/.nvm/versions/node/v8.5.0/lib/node_modules/third-party$
 alias dr="dotnet run"
 alias e="exit"
 alias g="googler"
 alias gc="git commit -am"
 alias gca="git commit --amend"
-alias gl="git log --graph --pretty=format:'%Cred%h%Creset%n' --abbrev-commit $
 alias ls="ls -la"
 alias q="quoth"
 alias nl="npm list --depth=0"
 alias ns="npm start"
 alias npm2="npm run lint && npm test"
-alias urldecode='python -c "import sys, urllib as ul; print ul.unquote_plus(s$
-alias urlencode='python -c "import sys, urllib as ul; print ul.quote_plus(sys$
 
 # Aliases for programs
 alias 1password="open -a 1password"
