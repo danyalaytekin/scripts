@@ -97,6 +97,7 @@ brew cask install \
     sketchpacks \
     skype \
     sourcetree \
+    spectacle \
     spotify \
     steam \
     tidal \
