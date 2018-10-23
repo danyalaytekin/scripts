@@ -28,6 +28,7 @@ brew install \
     ethereum \
     exiftool \
     ghi \
+    git \
     googler \
     golang \
     libxml2 \
@@ -40,6 +41,7 @@ brew install \
     p7zip \
     peco \
     pyenv \
+    pyenv-virtualenv \
     nvm \
     redis \
     ruby-install \
