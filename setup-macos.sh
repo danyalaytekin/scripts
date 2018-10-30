@@ -29,6 +29,7 @@ brew install \
     exiftool \
     ghi \
     git \
+    git-open \
     googler \
     golang \
     libxml2 \
