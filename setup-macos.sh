@@ -39,6 +39,7 @@ brew install \
     mono \
     mplayer \
     namebench \
+    nsnake \
     p7zip \
     peco \
     pyenv \
@@ -46,7 +47,7 @@ brew install \
     nvm \
     redis \
     ruby-install \
-    nsnake \
+    shellcheck \
     terraform \
     translate-shell \
     tree \
