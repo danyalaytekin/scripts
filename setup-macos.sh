@@ -32,6 +32,7 @@ brew install \
     git-open \
     googler \
     golang \
+    jq \
     libxml2 \
     lynx \
     mariadb \
