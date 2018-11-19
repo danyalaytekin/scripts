@@ -27,6 +27,7 @@ brew install \
     curl \
     ethereum \
     exiftool \
+    fdupes \
     ghi \
     git \
     git-open \
