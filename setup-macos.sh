@@ -44,6 +44,7 @@ brew install \
     nsnake \
     p7zip \
     peco \
+    python3 \
     pyenv \
     pyenv-virtualenv \
     nvm \

@@ -20,6 +20,9 @@ source $(brew --prefix nvm)/nvm.sh
 source /usr/local/opt/chruby/share/chruby/chruby.sh
 chruby ruby-2.5.1
 
+# Python 3 (use Homebrew version)
+export PATH="/usr/local/opt/python/libexec/bin:$PATH"
+
 # Git
 source /usr/local/etc/bash_completion.d/git-completion.bash
 source /usr/local/etc/bash_completion.d/git-prompt.sh
