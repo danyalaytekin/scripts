@@ -71,6 +71,7 @@ brew cask install \
     charles \
     cheatsheet \
     coconutbattery \
+    cronnix \
     daisydisk \
     deezer \
     discord \
