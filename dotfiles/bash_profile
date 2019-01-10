@@ -58,5 +58,5 @@ alias chrome_without_web_security="open -a google\ chrome --args --disable-web-s
 alias contacts="open -a contacts"
 alias outlook="open -a microsoft\ outlook"
 alias safari="open -a safari"
-alias tidal="open -a tidal"
+alias teams="open -a firefox https://teams.microsoft.com"
 alias web="safari"
