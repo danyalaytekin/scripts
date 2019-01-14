@@ -13,6 +13,9 @@ bind "set show-all-if-ambiguous on"
 export NVM_DIR=~/.nvm
 source $(brew --prefix nvm)/nvm.sh
 
+# Deno
+export PATH="~/.deno/bin:$PATH"
+
 # Autojump
 [[ -f $(brew --prefix)/etc/profile.d/autojump.sh ]] && . $(brew --prefix)/etc/profile.d/autojump.sh
 

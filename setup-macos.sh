@@ -183,6 +183,9 @@ npm install -g \
     third-party-decode \
     yarn
 
+# Deno
+curl -L https://deno.land/x/install/install.py | python
+
 # Rust
 curl https://sh.rustup.rs -sSf | sh
 
