@@ -49,6 +49,7 @@ brew install \
     pyenv-virtualenv \
     nvm \
     redis \
+    rename \
     ruby-install \
     shellcheck \
     terraform \
