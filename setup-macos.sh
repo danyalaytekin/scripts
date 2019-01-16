@@ -14,7 +14,10 @@ git config --global core.editor "nano"
 
 # Homebrew - setup
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-brew update && brew doctor
+brew analytics off
+brew analytics
+brew update
+brew doctor
 
 # Homebrew - run installers
 brew install \
@@ -57,6 +60,8 @@ brew install \
     tree \
     wget \
     wiki
+brew cleanup
+brew doctor
 
 # Homebrew casks - enable older versions
 brew tap caskroom/versions
