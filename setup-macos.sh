@@ -58,6 +58,7 @@ brew install \
     shellcheck \
     terraform \
     translate-shell \
+    travis \
     tree \
     wget \
     wiki
@@ -164,7 +165,6 @@ ruby-install ruby 2.5
 chruby 2.5
 gem install \
     bundler \
-    travis \
     quoth
 
 # Node
