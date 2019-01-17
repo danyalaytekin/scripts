@@ -6,8 +6,8 @@ export HISTSIZE=20000           # resize history size
 bind "set completion-ignore-case on"
 bind "set show-all-if-ambiguous on"
 
-# ensure .bashrc is read
-#[[ -r ~/.bashrc ]] && . ~/.bashrc
+# Import .bashrc if present
+#[[ -r ~/.bashrc ]] && source ~/.bashrc
 
 # Node
 export NVM_DIR=~/.nvm
@@ -17,7 +17,7 @@ source $(brew --prefix nvm)/nvm.sh
 export PATH="~/.deno/bin:$PATH"
 
 # Autojump
-[[ -f $(brew --prefix)/etc/profile.d/autojump.sh ]] && . $(brew --prefix)/etc/profile.d/autojump.sh
+[[ -f $(brew --prefix)/etc/profile.d/autojump.sh ]] && source $(brew --prefix)/etc/profile.d/autojump.sh
 
 # Ruby
 source /usr/local/opt/chruby/share/chruby/chruby.sh
