@@ -24,6 +24,7 @@ brew install \
     autojump \
     awscli \
     az \
+    bash-completion \
     cbmbasic \
     chruby \
     cloc \
@@ -88,6 +89,7 @@ brew cask install \
     focus \
     gimp \
     gitify \
+    github \
     gitkraken \
     gitter \
     google-chrome \
@@ -113,7 +115,7 @@ brew cask install \
     spotify \
     steam \
     tidal \
-    torbrowser \
+    tor-browser \
     transmission \
     ubar \
     visual-studio-code \
