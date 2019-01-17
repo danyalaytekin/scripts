@@ -9,6 +9,9 @@ bind "set show-all-if-ambiguous on"
 # Import .bashrc if present
 #[[ -r ~/.bashrc ]] && source ~/.bashrc
 
+# Homebrew
+export PATH="/usr/local/sbin:$PATH"
+
 # Node
 export NVM_DIR=~/.nvm
 source $(brew --prefix nvm)/nvm.sh
