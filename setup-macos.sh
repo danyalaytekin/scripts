@@ -43,6 +43,7 @@ brew install \
     mas \
     mono \
     mplayer \
+    m-cli \
     namebench \
     nsnake \
     p7zip \
