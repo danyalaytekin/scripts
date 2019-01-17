@@ -6,8 +6,11 @@ export HISTSIZE=20000           # resize history size
 bind "set completion-ignore-case on"
 bind "set show-all-if-ambiguous on"
 
-# ensure .bashrc is read
-#[[ -r ~/.bashrc ]] && . ~/.bashrc
+# Import .bashrc if present
+#[[ -r ~/.bashrc ]] && source ~/.bashrc
+
+# Homebrew
+export PATH="/usr/local/sbin:$PATH"
 
 # Node
 export NVM_DIR=~/.nvm
@@ -17,7 +20,7 @@ source $(brew --prefix nvm)/nvm.sh
 export PATH="~/.deno/bin:$PATH"
 
 # Autojump
-[[ -f $(brew --prefix)/etc/profile.d/autojump.sh ]] && . $(brew --prefix)/etc/profile.d/autojump.sh
+[[ -f $(brew --prefix)/etc/profile.d/autojump.sh ]] && source $(brew --prefix)/etc/profile.d/autojump.sh
 
 # Ruby
 source /usr/local/opt/chruby/share/chruby/chruby.sh
@@ -61,5 +64,6 @@ alias chrome_without_web_security="open -a google\ chrome --args --disable-web-s
 alias contacts="open -a contacts"
 alias outlook="open -a microsoft\ outlook"
 alias safari="open -a safari"
+alias simulator="open -a simulator"
 alias teams="open -a firefox https://teams.microsoft.com"
 alias web="safari"
