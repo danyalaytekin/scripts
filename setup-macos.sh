@@ -22,7 +22,6 @@ brew doctor
 # Homebrew - run installers
 brew install \
     autojump \
-    awscli \
     az \
     bash-completion \
     cbmbasic \
@@ -202,6 +201,12 @@ curl https://sh.rustup.rs -sSf | sh
 # Rust - packages
 cargo install \
     urlencode
+
+# Python - packages
+pip install \
+    # If this doesn't produce a working version, use sudo -H pip install awscli
+    # Don't install awscli using Homebrew
+    awscli
 
 # Chrome - disable navigation gestures
 defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool FALSE
