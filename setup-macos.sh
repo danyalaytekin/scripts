@@ -105,6 +105,7 @@ brew cask install \
     microsoft-office \
     mist \
     mysqlworkbench \
+    ngrok \
     notion \
     postman \
     qlmarkdown \
