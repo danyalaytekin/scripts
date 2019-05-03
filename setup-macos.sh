@@ -57,6 +57,7 @@ brew install \
     ruby-install \
     shellcheck \
     terraform \
+    tldr \
     translate-shell \
     travis \
     tree \
@@ -207,6 +208,13 @@ pip install \
     # If this doesn't produce a working version, use sudo -H pip install awscli
     # Don't install awscli using Homebrew
     awscli
+
+# Perl - manual setup - press enter at each prompt
+cpan
+
+# VS Code - setup
+cpan Perl::LanguageServer
+
 
 # Chrome - disable navigation gestures
 defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool FALSE
