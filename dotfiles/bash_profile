@@ -19,6 +19,14 @@ source $(brew --prefix nvm)/nvm.sh
 # Deno
 export PATH="~/.deno/bin:$PATH"
 
+# Perl
+PATH="/Users/danyalaytekin/perl5/bin${PATH:+:${PATH}}"; export PATH;
+PERL5LIB="/Users/danyalaytekin/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}"; export PERL5LIB;
+PERL_LOCAL_LIB_ROOT="/Users/danyalaytekin/perl5${PERL_LOCAL_LIB_ROOT:+:${PERL_LOCAL_LIB_ROOT}}"; export PERL_LOCAL_LIB_ROOT;
+PERL_MB_OPT="--install_base \"/Users/danyalaytekin/perl5\""; export PERL_MB_OPT;
+PERL_MM_OPT="INSTALL_BASE=/Users/danyalaytekin/perl5"; export PERL_MM_OPT;
+
+
 # Autojump
 [[ -f $(brew --prefix)/etc/profile.d/autojump.sh ]] && source $(brew --prefix)/etc/profile.d/autojump.sh
 
