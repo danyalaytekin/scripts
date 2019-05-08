@@ -136,6 +136,18 @@ brew cask install \
 brew tap homebrew/cask-versions
 brew cask install \
     visual-studio-code-insiders
+
+
+# Set up VS Code editions
+code --install-extension mikestead.dotenv
+code --install-extension eamodio.gitlens
+code --install-extension ms-vsliveshare.vsliveshare-pack
+code-insiders --install-extension mikestead.dotenv
+code-insiders --install-extension eamodio.gitlens
+code-insiders --install-extension ms-vsliveshare.vsliveshare-pack
+
+code-insiders --install-extension ms-vscode-remote.vscode-remote-extensionpack # not yet compatible with vanilla
+
 # Mac App Store - run installers
 mas install \
     443987910 `#1Password` \
