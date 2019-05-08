@@ -132,6 +132,10 @@ brew tap caskroom/fonts
 brew cask install \
     font-inconsolata
 
+# Homebrew casks - install VS Code Insider edition
+brew tap homebrew/cask-versions
+brew cask install \
+    visual-studio-code-insiders
 # Mac App Store - run installers
 mas install \
     443987910 `#1Password` \
