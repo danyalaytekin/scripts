@@ -32,6 +32,7 @@ brew install \
     exiftool \
     fdupes \
     ghi \
+    ghq \
     git \
     git-open \
     googler \
