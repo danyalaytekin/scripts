@@ -35,6 +35,7 @@ brew install \
     ghq \
     git \
     git-open \
+    github-markdown-toc \
     googler \
     golang \
     jq \
