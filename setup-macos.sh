@@ -11,6 +11,7 @@ defaults write -g NSAutomaticWindowAnimationsEnabled -bool false
 
 # Git
 git config --global core.editor "nano"
+git config --global push.default current
 
 # Homebrew - setup
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
