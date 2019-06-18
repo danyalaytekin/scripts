@@ -26,7 +26,6 @@ PERL_LOCAL_LIB_ROOT="/Users/danyalaytekin/perl5${PERL_LOCAL_LIB_ROOT:+:${PERL_LO
 PERL_MB_OPT="--install_base \"/Users/danyalaytekin/perl5\""; export PERL_MB_OPT;
 PERL_MM_OPT="INSTALL_BASE=/Users/danyalaytekin/perl5"; export PERL_MM_OPT;
 
-
 # Autojump
 [[ -f $(brew --prefix)/etc/profile.d/autojump.sh ]] && source $(brew --prefix)/etc/profile.d/autojump.sh
 
