@@ -145,11 +145,11 @@ brew cask install \
 code --install-extension mikestead.dotenv
 code --install-extension eamodio.gitlens
 code --install-extension ms-vsliveshare.vsliveshare-pack
+code --install-extension ms-vscode-remote.vscode-remote-extensionpack
 code-insiders --install-extension mikestead.dotenv
 code-insiders --install-extension eamodio.gitlens
 code-insiders --install-extension ms-vsliveshare.vsliveshare-pack
-
-code-insiders --install-extension ms-vscode-remote.vscode-remote-extensionpack # not yet compatible with vanilla
+code-insiders --install-extension ms-vscode-remote.vscode-remote-extensionpack
 
 # Mac App Store - run installers
 mas install \
