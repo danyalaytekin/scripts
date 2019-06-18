@@ -125,6 +125,7 @@ brew cask install \
     transmission \
     ubar \
     visual-studio-code \
+    visual-stuudio-code-insiders \
     vlc \
     vmware-fusion \
     zeplin
