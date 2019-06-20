@@ -80,6 +80,7 @@ brew cask install \
     beyond-compare \
     bitbar \
     blender \
+    blisk \
     charles \
     cheatsheet \
     coconutbattery \
