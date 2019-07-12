@@ -228,7 +228,8 @@ cargo install \
 pip install \
     # If this doesn't produce a working version, use sudo -H pip install awscli
     # Don't install awscli using Homebrew
-    awscli
+    awscli \
+    python-gitlab
 
 # Perl - manual setup - press enter at each prompt
 cpan
