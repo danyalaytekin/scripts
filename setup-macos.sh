@@ -128,7 +128,7 @@ brew cask install \
     visual-studio-code \
     visual-stuudio-code-insiders \
     vlc \
-    vmware-fusion \
+    vmware-fusion10 \
     zeplin
 
 # Homebrew casks - install fonts
