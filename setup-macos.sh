@@ -127,8 +127,7 @@ brew cask install \
     tor-browser \
     transmission \
     ubar \
-    visual-studio-code \
-    visual-stuudio-code-insiders \
+    visual-studio-code-insiders \
     vlc \
     vmware-fusion10 \
     zeplin
@@ -137,12 +136,6 @@ brew cask install \
 brew tap caskroom/fonts
 brew cask install \
     font-inconsolata
-
-# Homebrew casks - install VS Code Insider edition
-brew tap homebrew/cask-versions
-brew cask install \
-    visual-studio-code-insiders
-
 
 # Set up VS Code editions
 code --install-extension mikestead.dotenv
