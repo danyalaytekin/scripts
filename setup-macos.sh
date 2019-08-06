@@ -47,6 +47,7 @@ brew install \
     mono \
     mplayer \
     m-cli \
+    mysql \
     namebench \
     nsnake \
     p7zip \
@@ -114,6 +115,7 @@ brew cask install \
     postman \
     qlmarkdown \
     qlstephen \
+    sequel-pro \
     sketch \
     sketchpacks \
     skype \
