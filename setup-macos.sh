@@ -140,14 +140,23 @@ brew cask install \
     font-inconsolata
 
 # Set up VS Code extensions
-code --install-extension mikestead.dotenv
-code --install-extension eamodio.gitlens
-code --install-extension ms-vsliveshare.vsliveshare-pack
-code --install-extension ms-vscode-remote.vscode-remote-extensionpack
-code-insiders --install-extension mikestead.dotenv
-code-insiders --install-extension eamodio.gitlens
-code-insiders --install-extension ms-vsliveshare.vsliveshare-pack
-code-insiders --install-extension ms-vscode-remote.vscode-remote-extensionpack
+code --install-extension ms-azuretools.vscode-docker # docker
+code --install-extension mikestead.dotenv # dotenv
+code --install-extension eamodio.gitlens # gitlens
+code --install-extension ms-vscode.go #go
+code --install-extension ms-vsliveshare.vsliveshare-pack # vs liveshare
+code --install-extension ms-vscode-remote.vscode-remote-extensionpack # ssh
+
+code-insiders --install-extension ms-azuretools.vscode-docker # docker
+code-insiders --install-extension mikestead.dotenv # dotenv
+code-insiders --install-extension eamodio.gitlens # gitlens
+code-insiders --install-extension ms-vscode.go #go
+code-insiders --install-extension ms-vsliveshare.vsliveshare-pack # vs liveshare
+code-insiders --install-extension ms-vscode-remote.vscode-remote-extensionpack # ssh
+
+
+
+ziyasal.vscode-open-in-github
 
 # Mac App Store - run installers
 mas install \
