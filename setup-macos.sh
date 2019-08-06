@@ -127,7 +127,9 @@ brew cask install \
     tor-browser \
     transmission \
     ubar \
-    visual-studio-code-insiders \
+    visual-studio \
+    visual-studio-code \
+    visual-studio-code-insiders
     vlc \
     vmware-fusion10 \
     zeplin
@@ -137,7 +139,7 @@ brew tap caskroom/fonts
 brew cask install \
     font-inconsolata
 
-# Set up VS Code editions
+# Set up VS Code extensions
 code --install-extension mikestead.dotenv
 code --install-extension eamodio.gitlens
 code --install-extension ms-vsliveshare.vsliveshare-pack
