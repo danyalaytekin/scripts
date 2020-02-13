@@ -75,6 +75,7 @@ brew tap caskroom/versions
 
 # Homebrew casks - install software
 brew cask install \
+    amethyst \
     atext \
     authy \
     balsamiq-mockups \
