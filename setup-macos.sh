@@ -78,10 +78,12 @@ brew cask install \
     atext \
     authy \
     balsamiq-mockups \
+    barrier \
     beyond-compare \
     bitbar \
     blender \
     blisk \
+    ccmenu \
     charles \
     cheatsheet \
     coconutbattery \
@@ -93,7 +95,9 @@ brew cask install \
     dropbox \
     dupeguru \
     firefox \
+    flotato \
     focus \
+    gfxcardstatus \
     gimp \
     gitify \
     github \
@@ -112,10 +116,12 @@ brew cask install \
     mysqlworkbench \
     ngrok \
     notion \
+    pock \
     postman \
     qlmarkdown \
     qlstephen \
     sequel-pro \
+    sip \
     sketch \
     sketchpacks \
     skype \
