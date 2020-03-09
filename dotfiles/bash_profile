@@ -37,6 +37,9 @@ chruby ruby-2.5.3
 # Python 3 (use Homebrew version)
 export PATH="/usr/local/opt/python/libexec/bin:$PATH"
 
+# Rust
+export PATH="$HOME/.cargo/bin:$PATH"
+
 # Git
 source /usr/local/etc/bash_completion.d/git-completion.bash
 source /usr/local/etc/bash_completion.d/git-prompt.sh
