@@ -1,8 +1,9 @@
 #!/bin/bash
 
 # Shell
-export HISTCONTROL=erasedups    # erase duplicates
-export HISTSIZE=20000           # resize history size
+export HISTCONTROL=erasedups                # erase duplicates
+export HISTSIZE=20000                       # resize history size
+export BASH_SILENCE_DEPRECATION_WARNING=1   # disable macos zsh alert
 bind "set completion-ignore-case on"
 bind "set show-all-if-ambiguous on"
 
