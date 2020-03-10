@@ -92,6 +92,7 @@ brew cask install \
     daisydisk \
     deezer \
     discord \
+    docker \
     doxie \
     dropbox \
     dupeguru \
