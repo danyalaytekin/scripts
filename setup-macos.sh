@@ -113,6 +113,7 @@ brew cask install \
     keyboard-maestro \
     itsycal \
     jetbrains-toolbox \
+    microsoft-edge \
     microsoft-office \
     mist \
     mysqlworkbench \
