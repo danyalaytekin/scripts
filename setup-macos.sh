@@ -71,7 +71,7 @@ brew cleanup
 brew doctor
 
 # Homebrew casks - enable older versions
-brew tap caskroom/versions
+brew tap homebrew/cask-versions
 
 # Homebrew casks - install software
 brew cask install \
