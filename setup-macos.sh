@@ -6,6 +6,9 @@ chflags nohidden ~/Library
 defaults write com.apple.finder ShowPathbar -bool true
 defaults write com.apple.finder ShowStatusBar -bool true
 
+# Setup Dock
+defaults write com.apple.dock tilesize -int 24; killall Dock
+
 # Disable window animations
 defaults write -g NSAutomaticWindowAnimationsEnabled -bool false
 
