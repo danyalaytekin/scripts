@@ -32,7 +32,7 @@ PERL_MM_OPT="INSTALL_BASE=/Users/danyalaytekin/perl5"; export PERL_MM_OPT;
 
 # Ruby
 source /usr/local/opt/chruby/share/chruby/chruby.sh
-chruby ruby-2.5
+chruby 2.5
 
 # Python 3 (use Homebrew version)
 export PATH="/usr/local/opt/python/libexec/bin:$PATH"
