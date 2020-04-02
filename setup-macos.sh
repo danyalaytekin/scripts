@@ -131,6 +131,7 @@ brew cask install \
     sourcetree \
     spectacle \
     spotify \
+    station \
     steam \
     tidal \
     tor-browser \
