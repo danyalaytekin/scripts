@@ -109,6 +109,7 @@ brew cask install \
     gitkraken \
     gitter \
     google-chrome \
+    hazel \
     hyper \
     imageoptim \
     kdiff3 \
