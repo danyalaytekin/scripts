@@ -140,6 +140,7 @@ brew cask install \
     tidal \
     tor-browser \
     transmission \
+    tunnelblick \
     ubar \
     visual-studio \
     visual-studio-code \
