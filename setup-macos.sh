@@ -128,6 +128,7 @@ brew cask install \
     qlmarkdown \
     qlstephen \
     sequel-pro \
+    signal \
     sip \
     sketch \
     sketchpacks \
