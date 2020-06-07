@@ -206,8 +206,8 @@ gem install \
     quoth
 
 # Node
-nvm install 10
-nvm use 10
+nvm install 12
+nvm use 12
 
 # Node - packages
 npm install -g \
