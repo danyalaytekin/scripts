@@ -111,6 +111,7 @@ brew cask install \
     google-chrome \
     hazel \
     hyper \
+    iina \
     imageoptim \
     kdiff3 \
     keybase \
