@@ -17,7 +17,7 @@ git config --global core.editor "nano"
 git config --global push.default current
 
 # Homebrew - setup
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 brew analytics off
 brew analytics
 brew update
