@@ -32,6 +32,7 @@ brew install \
     chruby \
     cloc \
     curl \
+    defaultbrowser \
     ethereum \
     exiftool \
     fdupes \
