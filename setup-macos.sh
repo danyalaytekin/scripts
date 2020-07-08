@@ -80,6 +80,7 @@ brew tap homebrew/cask-versions
 # Homebrew casks - install software
 brew cask install \
     amethyst \
+    android-file-transfer \
     atext \
     authy \
     balsamiq-mockups \
