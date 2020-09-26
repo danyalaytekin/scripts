@@ -52,6 +52,7 @@ brew install \
     mplayer \
     m-cli \
     mysql \
+    nativefier \
     namebench \
     nsnake \
     p7zip \
