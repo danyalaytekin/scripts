@@ -101,7 +101,6 @@ brew cask install \
     docker \
     doxie \
     dropbox \
-    dupeguru \
     firefox \
     flotato \
     focus \
