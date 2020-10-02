@@ -177,6 +177,7 @@ mas install \
     1141688067 `#CoinTick` \
     641027709 `#ColorPicker` \
     1055511498 `#DayOne` \
+    1032755628 `#DuplicateFileFinder` \
     587769990 `#EyeFriendly` \
     682658836 `#GarageBand` \
     1026566364 `#GoodNotes` \
