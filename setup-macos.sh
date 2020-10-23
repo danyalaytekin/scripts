@@ -115,6 +115,7 @@ brew cask install \
     hyper \
     iina \
     imageoptim \
+    iterm2 \
     keybase \
     keyboard-maestro \
     itsycal \
