@@ -32,6 +32,7 @@ brew install \
     chruby \
     cloc \
     curl \
+    ddgr \
     defaultbrowser \
     ethereum \
     exiftool \
@@ -218,7 +219,6 @@ nvm use 12
 # Node - packages
 npm install -g \
     create-react-app \
-    ddg-terminal \
     express-generator \
     git-open \
     newman \
