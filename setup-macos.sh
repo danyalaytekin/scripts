@@ -198,6 +198,7 @@ mas install \
     803453959 `#Slack` \
     1176895641 `#Spark` \
     1187772509 `#stts` \
+    412141729 `#TypeIt4Me` \
     1225570693 `#UlyssesMac` \
     1147396723 `#WhatsApp` \
     497799835 `#Xcode`
