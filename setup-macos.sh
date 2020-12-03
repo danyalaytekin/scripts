@@ -121,6 +121,7 @@ brew cask install \
     keyboard-maestro \
     itsycal \
     jetbrains-toolbox \
+    joplin \
     microsoft-edge \
     microsoft-office \
     mist \
