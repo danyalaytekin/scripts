@@ -83,6 +83,7 @@ brew tap homebrew/cask-versions
 brew cask install \
     amethyst \
     android-file-transfer \
+    appcleaner \
     atext \
     authy \
     balsamiq-mockups \
