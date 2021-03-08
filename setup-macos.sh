@@ -223,6 +223,7 @@ nvm use 12
 npm install -g \
     create-react-app \
     express-generator \
+    fkill-cli \
     git-open \
     newman \
     npm-check-updates \
