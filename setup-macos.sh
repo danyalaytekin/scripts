@@ -80,7 +80,7 @@ brew doctor
 brew tap homebrew/cask-versions
 
 # Homebrew casks - install software
-brew cask install \
+brew install --cask \
     amethyst \
     android-file-transfer \
     appcleaner \
@@ -157,7 +157,7 @@ brew cask install \
 
 # Homebrew casks - install fonts
 brew tap caskroom/fonts
-brew cask install \
+brew install --cask \
     font-inconsolata
 
 # Set up VS Code extensions
