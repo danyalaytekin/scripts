@@ -118,6 +118,7 @@ brew install --cask \
     iina \
     imageoptim \
     iterm2 \
+    kdiff3 \
     keybase \
     keyboard-maestro \
     itsycal \
@@ -204,9 +205,6 @@ mas install \
     1225570693 `#UlyssesMac` \
     1147396723 `#WhatsApp` \
     497799835 `#Xcode`
-
-# Nudge to download KDiff3
-open https://download.kde.org/stable/kdiff3
 
 # Ruby
 ruby-install ruby 2.5
