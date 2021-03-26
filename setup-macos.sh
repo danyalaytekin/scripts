@@ -262,8 +262,9 @@ cpan
 cpan Perl::LanguageServer
 
 
-# Chrome - disable navigation gestures
+# Browsers - disable navigation gestures
 defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool FALSE
+defaults write com.microsoft.edgemac AppleEnableSwipeNavigateWithScrolls -bool FALSE
 
 # Bear - sync
 open -g -a Bear
